@@ -1,0 +1,272 @@
+# Ecosystem Level Information
+title = "Interest Protocol"
+
+sub_ecosystems = []
+
+github_organizations = ["https://github.com/interest-protocol"]
+
+# Repositories
+[[repo]]
+url = "https://gfx.cafe/ip/app.git"
+
+[[repo]]
+url = "https://gfx.cafe/ip/contracts"
+
+[[repo]]
+url = "https://github.com/interest-protocol/am-AMM"
+
+[[repo]]
+url = "https://github.com/interest-protocol/amm"
+missing = true
+
+[[repo]]
+url = "https://github.com/interest-protocol/amm-indexer"
+missing = true
+
+[[repo]]
+url = "https://github.com/interest-protocol/amm-v2"
+
+[[repo]]
+url = "https://github.com/interest-protocol/bonds-amm"
+missing = true
+
+[[repo]]
+url = "https://github.com/interest-protocol/burrrd-lottery"
+missing = true
+
+[[repo]]
+url = "https://github.com/interest-protocol/burrrd-website"
+
+[[repo]]
+url = "https://github.com/interest-protocol/clamm"
+
+[[repo]]
+url = "https://github.com/interest-protocol/clamm-sdk"
+
+[[repo]]
+url = "https://github.com/interest-protocol/coin-v2"
+
+[[repo]]
+url = "https://github.com/interest-protocol/coin-x-oracle"
+
+[[repo]]
+url = "https://github.com/interest-protocol/correlated-pools"
+missing = true
+
+[[repo]]
+url = "https://github.com/interest-protocol/deepbook-ui"
+
+[[repo]]
+url = "https://github.com/interest-protocol/DefiLlama-Adapters"
+
+[[repo]]
+url = "https://github.com/interest-protocol/dimension-adapters"
+
+[[repo]]
+url = "https://github.com/interest-protocol/dinero-markets-old"
+
+[[repo]]
+url = "https://github.com/interest-protocol/EMOJI"
+
+[[repo]]
+url = "https://github.com/interest-protocol/fonts"
+
+[[repo]]
+url = "https://github.com/interest-protocol/hooks"
+
+[[repo]]
+url = "https://github.com/interest-protocol/interest-borrow"
+
+[[repo]]
+url = "https://github.com/interest-protocol/interest-bridge"
+
+[[repo]]
+url = "https://github.com/interest-protocol/interest-earn"
+
+[[repo]]
+url = "https://github.com/interest-protocol/interest-lending-old"
+missing = true
+
+[[repo]]
+url = "https://github.com/interest-protocol/interest-lst"
+
+[[repo]]
+url = "https://github.com/interest-protocol/interest-math"
+
+[[repo]]
+url = "https://github.com/interest-protocol/interest-swap"
+
+[[repo]]
+url = "https://github.com/interest-protocol/interest-tokens"
+
+[[repo]]
+url = "https://github.com/interest-protocol/interest-ui"
+
+[[repo]]
+url = "https://github.com/interest-protocol/interface"
+
+[[repo]]
+url = "https://github.com/interest-protocol/interface-template"
+
+[[repo]]
+url = "https://github.com/interest-protocol/landing-page"
+
+[[repo]]
+url = "https://github.com/interest-protocol/library"
+
+[[repo]]
+url = "https://github.com/interest-protocol/MAIL-markets"
+missing = true
+
+[[repo]]
+url = "https://github.com/interest-protocol/memez-swap"
+
+[[repo]]
+url = "https://github.com/interest-protocol/memez-v2-invariant"
+
+[[repo]]
+url = "https://github.com/interest-protocol/memez.gg"
+
+[[repo]]
+url = "https://github.com/interest-protocol/memez_fun"
+
+[[repo]]
+url = "https://github.com/interest-protocol/mock-movement-coins"
+
+[[repo]]
+url = "https://github.com/interest-protocol/mock-usdc"
+
+[[repo]]
+url = "https://github.com/interest-protocol/money-market"
+
+[[repo]]
+url = "https://github.com/interest-protocol/move-bytecode-template"
+
+[[repo]]
+url = "https://github.com/interest-protocol/move-creator"
+
+[[repo]]
+url = "https://github.com/interest-protocol/move-templates"
+
+[[repo]]
+url = "https://github.com/interest-protocol/movement"
+
+[[repo]]
+url = "https://github.com/interest-protocol/movement-dex-interface"
+
+[[repo]]
+url = "https://github.com/interest-protocol/reaptos"
+
+[[repo]]
+url = "https://github.com/interest-protocol/resui"
+
+[[repo]]
+url = "https://github.com/interest-protocol/sc-dex"
+
+[[repo]]
+url = "https://github.com/interest-protocol/scallop-coin-wrapper"
+
+[[repo]]
+url = "https://github.com/interest-protocol/sentio-amm"
+
+[[repo]]
+url = "https://github.com/interest-protocol/silo"
+
+[[repo]]
+url = "https://github.com/interest-protocol/solana-web3"
+
+[[repo]]
+url = "https://github.com/interest-protocol/su"
+
+[[repo]]
+url = "https://github.com/interest-protocol/su-interface"
+
+[[repo]]
+url = "https://github.com/interest-protocol/su-protocol"
+missing = true
+
+[[repo]]
+url = "https://github.com/interest-protocol/subgraph"
+missing = true
+
+[[repo]]
+url = "https://github.com/interest-protocol/sui"
+
+[[repo]]
+url = "https://github.com/interest-protocol/sui-amm-sdk"
+
+[[repo]]
+url = "https://github.com/interest-protocol/sui-coins"
+
+[[repo]]
+url = "https://github.com/interest-protocol/sui-coins-terminal"
+
+[[repo]]
+url = "https://github.com/interest-protocol/sui-coins-terminal-landing"
+
+[[repo]]
+url = "https://github.com/interest-protocol/sui-dca-bot"
+
+[[repo]]
+url = "https://github.com/interest-protocol/sui-defi"
+
+[[repo]]
+url = "https://github.com/interest-protocol/sui-dex"
+missing = true
+
+[[repo]]
+url = "https://github.com/interest-protocol/sui-dex-v2"
+missing = true
+
+[[repo]]
+url = "https://github.com/interest-protocol/sui-framework-coin"
+
+[[repo]]
+url = "https://github.com/interest-protocol/sui-interest-sdk"
+
+[[repo]]
+url = "https://github.com/interest-protocol/sui-interface"
+
+[[repo]]
+url = "https://github.com/interest-protocol/sui-mint"
+
+[[repo]]
+url = "https://github.com/interest-protocol/sui-money-market-sdk"
+
+[[repo]]
+url = "https://github.com/interest-protocol/sui-move-curve"
+missing = true
+
+[[repo]]
+url = "https://github.com/interest-protocol/sui-whirpool"
+missing = true
+
+[[repo]]
+url = "https://github.com/interest-protocol/suimate"
+
+[[repo]]
+url = "https://github.com/interest-protocol/suitears"
+
+[[repo]]
+url = "https://github.com/interest-protocol/suitears-lp"
+
+[[repo]]
+url = "https://github.com/interest-protocol/suitears-website"
+
+[[repo]]
+url = "https://github.com/interest-protocol/test-net"
+
+[[repo]]
+url = "https://github.com/interest-protocol/tokens"
+
+[[repo]]
+url = "https://github.com/interest-protocol/treasury-cap-v2"
+
+[[repo]]
+url = "https://github.com/interest-protocol/treasury_cap_v2"
+
+[[repo]]
+url = "https://github.com/interest-protocol/zk-bag"
+
+[[repo]]
+url = "https://github.com/interest-protocol/zk-login-prover"
